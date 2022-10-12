@@ -13,9 +13,17 @@ The gameplay consists of using a first person controller to navigate a castle se
 - ***TAB + Right-click*** : to drop torches
 - ***Space*** : to jump
 
+### Mechanics / Takeaways
+The major mechanics and things I learned to work with in this game:
+- Interacting with objects (grabbing torches, grabbing and swinging doors and bricks)
+- Depth of field and motion blur effects applied to the camera for realism
+- Self-made animations for the knight, made in Blender
+- Interactable torches that douse when touched to water (water in the basement, rain particles) and can be relit by touching them to other torches
+- Semi-functional particle system for rain and mist when you exit the castle
+- Specular and normal map usage for convincing environment textures
 
 ## Demo
-A link to a demo video recorded at the time of the class, showing off most of the level: https://youtu.be/E7p4S7Z8oec
+A link to a very short demo video recorded at the time of the class, showing off most of the level: https://youtu.be/E7p4S7Z8oec
 
 ## Planned Updates
 - Record new gameplay demo video

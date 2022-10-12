@@ -6,6 +6,8 @@ A small Unity application made as a keyboard-and-mouse, first person prototype o
 
 The gameplay consists of using a first person controller to navigate a castle setting with various interactive elements in the environment.
 
+![](/img_assets/screenshot_1.png)
+
 ### Controls
 - ***WASD*** : to move 
 - ***Mouse*** : to rotate the camera
@@ -21,6 +23,8 @@ The major mechanics and things I learned to work with in this game:
 - Interactable torches that douse when touched to water (water in the basement, rain particles) and can be relit by touching them to other torches
 - Semi-functional particle system for rain and mist when you exit the castle
 - Specular and normal map usage for convincing environment textures
+
+![](/img_assets/screenshot_2.png)
 
 ## Demo
 A link to a very short demo video recorded at the time of the class, showing off most of the level: https://youtu.be/E7p4S7Z8oec

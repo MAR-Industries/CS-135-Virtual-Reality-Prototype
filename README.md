@@ -2,7 +2,7 @@
 ***This project was made for CS 135: Virtual Reality in Spring 2021 at the University of California, Riverside***
 
 ## Description
-A small Unity application made as a keyboard-and-mouse, first person prototype of what could be a virtual reality experience. This academic quarter occurred during the COVID-19 pandemic and access to VR equipment was unavailable at the time of development due to social isolation. So the emphasis of this project was to prototype something that would be fun in virtual reality and that I could demo on mouse and keyboard.
+A small Unity application made as a keyboard-and-mouse, first person prototype of what could be a virtual reality experience. This academic quarter occurred during the COVID-19 pandemic and access to VR equipment was unavailable at the time of development due to social isolation. So the emphasis of this project was to prototype something that would be fun in virtual reality and that I could demo on mouse and keyboard. All assets were either license-free at the time of acquisition or self-made.
 
 The gameplay consists of using a first person controller to navigate a castle setting with various interactive elements in the environment.
 

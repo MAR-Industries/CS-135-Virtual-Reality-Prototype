@@ -4,13 +4,17 @@
 ## Description
 A small Unity application made as a keyboard-and-mouse, first person prototype of what could be a virtual reality experience. This academic quarter occurred during the COVID-19 pandemic and access to VR equipment was unavailable at the time of development due to social isolation. So the emphasis of this project was to prototype something that would be fun in virtual reality and that I could demo on mouse and keyboard.
 
-## Gameplay
-This project consists of using a first person controller to navigate a castle setting using the mouse for camera movement and the ***WASD*** keys for player movement. 
+The gameplay consists of using a first person controller to navigate a castle setting with various interactive elements in the environment.
+
+### Controls
+- ***WASD*** to move 
+- ***Mouse*** to rotate the camera
+
+The most notable game mechanics consist of: 
 
 
 ## Demo
-A demo video recorded at the time of the class can be found below, showing off most of the level.
-https://youtu.be/E7p4S7Z8oec
+A link to a demo video recorded at the time of the class, showing off most of the level: https://youtu.be/E7p4S7Z8oec
 
 ## Planned Updates
 - Clean up main scripts and file naming schemes for assets 

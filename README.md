@@ -11,12 +11,14 @@ The gameplay consists of using a first person controller to navigate a castle se
 - ***Mouse*** : to rotate the camera
 - ***E*** : to interact with objects in the environment
 - ***TAB + Right-click*** : to drop torches
+- ***Space*** : to jump
 
 
 ## Demo
 A link to a demo video recorded at the time of the class, showing off most of the level: https://youtu.be/E7p4S7Z8oec
 
 ## Planned Updates
+- Record new gameplay demo video
 - Clean up main scripts and file naming schemes for assets 
 - Finishing the basement and roof levels
 - Cleaning up the overall visuals (missing textures and animations, poorly formatted textures, empty rooms need more items and ambience, etc)

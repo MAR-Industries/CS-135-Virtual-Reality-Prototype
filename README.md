@@ -7,10 +7,10 @@ A small Unity application made as a keyboard-and-mouse, first person prototype o
 The gameplay consists of using a first person controller to navigate a castle setting with various interactive elements in the environment.
 
 ### Controls
-- ***WASD*** to move 
-- ***Mouse*** to rotate the camera
-
-The most notable game mechanics consist of: 
+- ***WASD*** : to move 
+- ***Mouse*** : to rotate the camera
+- ***E*** : to interact with objects in the environment
+- ***TAB + Right-click*** : to drop torches
 
 
 ## Demo

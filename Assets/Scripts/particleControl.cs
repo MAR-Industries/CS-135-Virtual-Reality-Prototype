@@ -19,7 +19,7 @@ public class particleControl : MonoBehaviour
     {
         if(douse){
             if (!particleSys.isPaused){
-                particleSys.Pause();
+                particleSys.Stop();
                 Debug.Log("pausing particle sys\n     - particleSys");
                 //other stuff for dousing sound effect
                 this.gameObject.transform.GetChild(2).GetComponent<Light>().enabled = false;

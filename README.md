@@ -6,6 +6,9 @@ A small Unity application made as a keyboard-and-mouse, first person prototype o
 
 The gameplay consists of using a first person controller to navigate a castle setting with various interactive elements in the environment.
 
+### IMPORTANT UPDATE
+I am in transition moving everything over to VR controls and functionality for the HP Reverb G2, using the Unity XR framework. Keyboard and mouse functionality may not work properly. Official changelog will be incoming shortly to document every minute change.
+
 ![](/img_assets/screenshot_1.png)
 
 ### Controls
@@ -36,3 +39,4 @@ A link to a very short demo video recorded at the time of the class, showing off
 - Cleaning up the overall visuals (missing textures and animations, poorly formatted textures, empty rooms need more items and ambience, etc)
 - Implement missing functionality (the ladder, the knight following the player, etc)
 - Clean up all major bugs
+- Actually port to VR functionality
